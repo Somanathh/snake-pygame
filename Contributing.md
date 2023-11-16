@@ -1,5 +1,5 @@
-Contributing to Todo Wallpaper Generator
-Thank you for considering contributing to Todo Wallpaper Generator! Your contribution play a important role in enhancing the functionality and features of this tool
+Contributing to Snake game!
+Thank you for considering contributing to Snake game! Your contribution play a important role in enhancing the functionality and features of this tool
 
 How to Contribute
 Reporting Issues
@@ -9,7 +9,7 @@ A clear and descriptive title needed.
 In detail Steps to reproduce the issue.
 Expected output and actual output.
 Pull Requests
-We are excited to welcome pull requests and to receive your contributions to improve and to enhance Wallpaper Generator. To submit a pull request here is simple steps to follow
+We are excited to welcome pull requests and to receive your contributions to improve and to enhance Snake game To submit a pull request here is simple steps to follow
 
 Fork the repository and create a new branch.
 apply your changes or additional features.
@@ -24,9 +24,9 @@ Code Contribution Guidelines
 Please adhere to the PEP 8 style guide when writing Python code. Use descriptive names and add comments to improve readability. Avoid hardcoding configurations whenever possible. Instead consider using constants or configuration files. Provide documentation in the form of comments or docstrings for functions, classes or significant sections of code.
 
 Licensing
-By making contributions to Wallpaper Generator you are agreeing that your work will be licensed under the projects [LICENSE]
+By making contributions to Snake game you are agreeing that your work will be licensed under the projects [LICENSE]
 
 Contact
 If you have any questions or need assistance don't hesitate to contact the maintainers through GitHub issues or, via email.
 
-Thank you for contributing to Todo Wallpaper Generator!
+Thank you for contributing to Snake game!
